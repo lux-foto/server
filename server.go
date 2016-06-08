@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"net/http"
-	"github.com/lux-foto/gphoto"
+	"github.com/lux-foto/gphoto-camera"
 	"github.com/lux-foto/movie-server"
 	"github.com/gorilla/mux"
 )
